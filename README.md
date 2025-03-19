@@ -1,17 +1,21 @@
 # Seurat-vs-Scanpy
 
-## Date:
+## Date: 03 - 19 - 2025
 
-## Author:
+## Author: Prasanth Kumar Thuthika
 
-## Title:
+## Title: Seurat vs Scanpy
 
-## Objective:
+## Objective
+
 
 ## Tools and Dependencies:
+1. Seurat
+2. Scanpy
 
-## Input - Files:
+## Input Files
+
 
 ## Execution:
 
-## 
+## Output Files: 
